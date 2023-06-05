@@ -372,3 +372,12 @@ main .container .left .profile{
     color: var(--color-dark);
     margin-right: 1rem;
 }
+
+
+/*++++++++++++++++++ Feeds ++++++++++++++++*/
+
+.middle .feeds .feed{
+    background: var(--color-white);
+    border-radius: var(--card-border-radius);
+    padding: var(--card-padding);
+}
