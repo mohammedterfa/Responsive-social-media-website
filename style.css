@@ -482,6 +482,10 @@ main .container .right{
     border-color: var(--color-dark);
 }
 
+.right .messages .message-requests{
+    color: var(--color-primary);
+}
+
 .right .messages .message{
     display: flex;
     gap: 1rem;
