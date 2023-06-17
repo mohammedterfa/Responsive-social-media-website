@@ -511,5 +511,8 @@ main .container .right{
     height: 0.8rem;
     border-radius: 50%;
     border:3px solid var(--color-white);
-    background: var(--color-success); 
+    background: var(--color-success);
+    position: absolute;
+    bottom: 0;
+    right: 0; 
 }
