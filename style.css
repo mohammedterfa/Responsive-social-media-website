@@ -574,3 +574,18 @@ main .container .right{
     border-radius: var(--card-border-radius);
     width: 50%;
 }
+
+/*+++++++++++++++++++++++++ FONT SIZE ++++++++++++++++++++++++++*/
+
+.customize-theme .font-size{
+    margin-top: 5rem;
+}
+
+.customize-theme .font-size > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--color-light);
+    padding: var(--search-padding);
+    border-radius: var(--card-border-radius);
+}
