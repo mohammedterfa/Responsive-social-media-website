@@ -567,3 +567,10 @@ main .container .right{
     place-items: center;
     font-size: 0.9rem;
 }
+
+.customize-theme .card{
+    background: var(--color-white);
+    padding: 3rem;
+    border-radius: var(--card-border-radius);
+    width: 50%;
+}
